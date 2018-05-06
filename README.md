@@ -1,3 +1,5 @@
+<img src="img/logo.png" align="right"/>
+
 Naziquote
 =========
 
@@ -5,7 +7,7 @@ A bash syntax highlighter that encourages (and can fix) proper quoting of varial
 
 Because rewriting scripts to adhere to the *always use quotes* principle can be daunting:
 
-![real-world example](ex-realworld.png)
+![real-world example](img/ex-realworld.png)
 
 Above: Selected portions of `xdg-desktop-menu` as highlighted by Naziquote.
 The foreground colors are syntax highlighting, whereas the background colors
@@ -13,7 +15,7 @@ The foreground colors are syntax highlighting, whereas the background colors
 if let loose with the `--besserwisser` option.
 Below: An artificial example that shows more tricky cases and special features.
 
-![artificial example](ex-artificial.png)
+![artificial example](img/ex-artificial.png)
 
 Why
 ---
@@ -26,8 +28,7 @@ Name
 To be absoultely clear, this is not about nazism.
 I mean it in the sense of [an authoritarian, strict or nitpicky person](4):
 
-> nazi:
->     3. (slang, pejorative, offensive) an authoritarian, strict or nitpicky person
+> (slang, pejorative, offensive) An authoritarian, strict or nitpicky person.
 
 "Nazi" alludes to strict adherence to principles, with little room for excuses.
 That's Naziquote in a nutshell:
